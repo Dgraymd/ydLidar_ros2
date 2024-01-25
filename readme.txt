@@ -39,7 +39,7 @@ ros2 launch ydlidar_ros2_driver ydlidar_launch_view.py
 in laserScan select /scan as Topic and Best effort as Reliability policy
 
 -----------done!----------------
-
+TODO:
 SLAM with ydlidar X2 and ROS2
 
 
